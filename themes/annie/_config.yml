@@ -4,13 +4,13 @@
 # menu
 menu:
     home: /
-    archive: /archives
-    about: /about
-    Family: /categories/family-savings
-    Pet: /categories/pet-fashion-show
-    Child: /categories/children-pre-edu
-    Cosmetic: /categories/cosmetic-safe-pregnancy
-    Fashion: /categories/summer-fashion
+    archive: archives/
+    about: about/
+    Family: categories/family-savings/
+    Pet: categories/pet-fashion-show/
+    Child: categories/children-pre-edu/
+    Cosmetic: categories/cosmetic-safe-pregnancy/
+    Fashion: categories/summer-fashion/
 
 # favicon & logo
 # if the value of logo is false, the 'title' is optional.
