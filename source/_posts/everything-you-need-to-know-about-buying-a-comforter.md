@@ -2,7 +2,7 @@
 title: Everything You Need to Know About Buying a Comforter
 date: 2019-11-18 12:56:00
 category: family savings
-cover: /img/
+cover: /img/22.jpg
 ---
 
 If winter comes, can a comforter be far behind? It’s all about staying cozy and warm in the bleak and cold winter, especially while sleeping! As such, a winter goose down comforter seems a wonderful choice providing luxurious comfort and unlimited warmth for you during these tough, cold months. However, you may be wondering “where do I start?”, “How can I pick a comforter that fits to my sleeping habits?” or “what should I be aware of before buying a comforter?” Well, we’ve prepared some ideal tips to help!
